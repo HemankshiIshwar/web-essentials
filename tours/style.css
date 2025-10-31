@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    color: blueviolet;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+}
+
+#intropara {
+    font-size: 20px;
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
